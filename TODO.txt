@@ -1,2 +1,7 @@
 FNTF(China) integration if possible
 integration with wireless routers
+  Ubiquiti
+  Cisco
+  TP-Link
+  Netgear
+  MikroTik
