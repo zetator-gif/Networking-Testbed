@@ -4,3 +4,4 @@
 •[https://qazinform.com/](https://qazinform.com/)<br>
 <p style="margin-left: 20px;">• [https://www.mdpi.com/1420-3049/27/23/8443](https://www.mdpi.com/1420-3049/27/23/8443)<br></p>
 •[[https://qazinform.com/][(https://github.com/Koenkk/zigbee2mqtt/discussions](https://github.com/Koenkk/zigbee2mqtt/discussions))](/)<br>
+https://www.zigbee2mqtt.io/
