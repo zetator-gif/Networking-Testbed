@@ -9,7 +9,7 @@ https://www.ti.com/technologies/wired-wireless-connectivity/zigbee/overview.html
 5. Example ULP Wireless Technologies Used
 
 IEEE 802.15.4 / Zigbee
-
+https://wiot-group.com/tomorrow/en/topics/energy-harvesting-for-iot-at-wiottomorrow25/
 Bluetooth Low Energy (BLE)
 
 LoRa / LoRaWAN
