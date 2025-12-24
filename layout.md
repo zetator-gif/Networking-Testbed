@@ -15,7 +15,7 @@ your-project/<br>
 │   └── logo.png           # Example image file<br>
 │<br>
 ├── assets/                # Additional assets like fonts, icons, etc.<br>
-│   └── fonts/             # Font files<br>
+│   └── fonts/             # Font files ! OWN FONTS FOR BETTER LOADING TIMES<br>
 │<br>
 └── docs/                  # Documentation files (optional)<br>
     └── usage.md           # Detailed usage instructions<br>
