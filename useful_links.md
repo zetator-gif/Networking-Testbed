@@ -22,3 +22,4 @@ https://www.youtube.com/watch?v=sYlHtIxPlVM
 <img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cd528c3-bd81-42ba-903a-4d047c60c4c4" />
 https://arxiv.org/search/?query=wireless+testbeds&searchtype=all&source=header
 [[QuCT NL](https://www.tue.nl/nieuws-en-evenementen/nieuwsoverzicht/16-09-2025-tue-launches-quantum-communication-testbed-quct-nl-to-secure-the-future-of-digital-infrastructure)](https://www.tue.nl/nieuws-en-evenementen/nieuwsoverzicht/16-09-2025-tue-launches-quantum-communication-testbed-quct-nl-to-secure-the-future-of-digital-infrastructure)
+<img width="944" height="514" alt="image" src="https://github.com/user-attachments/assets/60807db6-add6-4973-b35d-0c8e547caf36" />
