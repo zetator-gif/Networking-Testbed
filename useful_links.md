@@ -20,3 +20,4 @@ Backscatter communication (near-zero power)
 
 https://www.youtube.com/watch?v=sYlHtIxPlVM
 <img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cd528c3-bd81-42ba-903a-4d047c60c4c4" />
+https://arxiv.org/search/?query=wireless+testbeds&searchtype=all&source=header
