@@ -5,3 +5,5 @@ integration with wireless routers
   TP-Link
   Netgear
   MikroTik
+
+Support Band Steering https://www.spirent.com/assets/u/datasheet-mesh-automation-test-package
